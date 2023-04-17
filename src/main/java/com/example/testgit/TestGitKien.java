@@ -4,6 +4,9 @@ public class TestGitKien {
     public String Hello1(){
         return "hello1";
     }
+    public String HelloMinhAnh1(){
+        return "hello4";
+    }
 
     public String Hello2(){
         return "hello2";
