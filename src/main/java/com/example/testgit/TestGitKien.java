@@ -8,4 +8,8 @@ public class TestGitKien {
     public String Hello2(){
         return "hello2";
     }
+
+    public String Hello3(){
+        return "hello3";
+    }
 }
