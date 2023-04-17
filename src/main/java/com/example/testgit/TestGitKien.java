@@ -12,4 +12,7 @@ public class TestGitKien {
     public String Hello3(){
         return "hello3";
     }
+    public String Hello4(){
+        return "hello4";
+    }
 }
